@@ -4,11 +4,11 @@
 
 # Site
 title: 庄海鑫
-subtitle: Front-end technology blog
-description:
-author: John Doe
-language: 庄海鑫
-timezone: zh-CN
+subtitle: 庄海鑫技术博客
+description: 长得比一般人稍微帅那么一点点~ 的前端程序员
+author: 庄海鑫
+language: zh-Hans
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
